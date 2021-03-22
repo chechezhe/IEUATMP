@@ -1,0 +1,6 @@
+Itinerary estimation using AFC and TOT data for metro passengers.
+Published by 陈欣 (Xin Chen) from (Southwest Jiaotong University School of transportation and logistics) and (Transport Division of Technical University of Denmark)
+This code is a part of code for an unpublished paper ‘Crowding Valuation Using Itinerary Preference Estimated from Automated Fare Collection Data in Metro Systems’
+Due to the difference in computing environment, running time calculate method, and data, we cannot guarantee that the program is efficient than previous research, the code is for algorithm reference only. If you want to use these codes, be prepared to spend some time understanding them. The naming is easy to understand, hope it will help you. The codes come with no warranty; however, certain errors may remain. You can use the program for academic purposes. What I ask in return is that you reference my paper. When the paper is published, I will attach the link.
+If you have any questions feel free to contact me. My E-mail is: swjtu_chenxin@163.com
+This script takes passengers from ChunXiLu(O = 8) to HuaiShuDian (D = 83) of Chengdu Metro as an example. All data can be found in ‘InitialData.mat’. Due to the confidentiality of the data, some data has been added with noise.
